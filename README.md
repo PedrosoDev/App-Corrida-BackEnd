@@ -6,7 +6,7 @@
 
 1. Baixe e instale o [Docker](https://docs.docker.com/desktop/).
 
-2. instale a extensão [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+2. instale a extensão [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) no VSCode.
 
 3. Clique no ícone do canto inferior esquerdo como mostra a imagem:
    <br>
@@ -18,7 +18,7 @@
    <br>
    após isso clique no "Open Folder Container" como mostra na imagem.
 
-5. Após isso abrirá uma janela para você escolher qual projeto quer mexer:
+5. Isso abrirá uma janela para você escolher qual projeto quer mexer:
    <br>
    ![ilustração](https://cdn.discordapp.com/attachments/476540268405981214/999055128327888947/unknown.png)
 
